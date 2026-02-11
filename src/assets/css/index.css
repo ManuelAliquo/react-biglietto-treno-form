@@ -1,0 +1,23 @@
+@media (max-width: 576px) {
+  #submit-btn {
+    width: 95%;
+  }
+}
+
+@media (min-width: 576px) {
+  #submit-btn {
+    width: 95%;
+  }
+}
+
+@media (min-width: 768px) {
+  #submit-btn {
+    width: 50%;
+  }
+}
+
+@media (min-width: 992px) {
+  #submit-btn {
+    width: 30%;
+  }
+}
